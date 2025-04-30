@@ -8,7 +8,7 @@ function App() {
             <img 
               src="https://m.media-amazon.com/images/I/61CMzP-8YgL.jpg" 
               witdh="120px"
-              height="90px"
+              height="100px"
               alt="Cirno" 
               className="w-16 h-16 mx-auto mb-1"
             />

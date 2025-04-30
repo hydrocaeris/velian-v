@@ -12,7 +12,7 @@ function App() {
               alt="Cirno" 
               className="w-16 h-16 mx-auto mb-1"
             />
-            <span className="text-xs text-gray-500">Baka! (9)</span>
+            <span className="text-xs text-gray-500">fumofumo(9)</span>
           </div>
         </div>
         
